@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cbf7857e.chunk.css",
+    "main.js": "/static/js/main.9bce91e7.chunk.js",
+    "main.js.map": "/static/js/main.9bce91e7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fb90cb43.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fb90cb43.js.map",
+    "static/css/2.123f092d.chunk.css": "/static/css/2.123f092d.chunk.css",
+    "static/js/2.fad54e86.chunk.js": "/static/js/2.fad54e86.chunk.js",
+    "static/js/2.fad54e86.chunk.js.map": "/static/js/2.fad54e86.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.123f092d.chunk.css.map": "/static/css/2.123f092d.chunk.css.map",
+    "static/css/main.cbf7857e.chunk.css.map": "/static/css/main.cbf7857e.chunk.css.map",
+    "static/js/2.fad54e86.chunk.js.LICENSE.txt": "/static/js/2.fad54e86.chunk.js.LICENSE.txt",
+    "static/media/job_search.4ee01884.svg": "/static/media/job_search.4ee01884.svg",
+    "static/media/pointage_budget.fc6a6f50.svg": "/static/media/pointage_budget.fc6a6f50.svg",
+    "static/media/pointage_logo.8db625fe.svg": "/static/media/pointage_logo.8db625fe.svg",
+    "static/media/pointage_service.11c85b58.svg": "/static/media/pointage_service.11c85b58.svg",
+    "static/media/syn 1L.svg": "/static/media/syn 1L.242b7844.svg",
+    "static/media/syn 2L.svg": "/static/media/syn 2L.3c5e57a5.svg",
+    "static/media/syt.fb8f53c9.svg": "/static/media/syt.fb8f53c9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb90cb43.js",
+    "static/css/2.123f092d.chunk.css",
+    "static/js/2.fad54e86.chunk.js",
+    "static/css/main.cbf7857e.chunk.css",
+    "static/js/main.9bce91e7.chunk.js"
+  ]
+}
